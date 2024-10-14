@@ -1,0 +1,84 @@
+body {
+    background-image:url("textura2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+    }
+
+
+h1 {
+	font-size: 60px;
+	color: #4398ad;
+	text-align: center;
+    text-decoration: underline;
+    font-family: 'Brush Script MT', cursive;
+	
+	text-shadow: 3px 3px 10px #090a0a;
+}
+
+h1:hover{
+	color: #465f85;
+}
+
+ul {
+    font-size: 20px;
+    font-family: 'Courier New';
+}
+
+h2 {
+    font-size: 50px;
+    color:#0c9266;
+    font-family: 'Brush Script MT', cursive;
+}
+
+.jornal {
+        column-count: 3; /* Número de colunas */
+        column-gap: 20px; /* Espaçamento entre colunas */
+        text-align: justify; /* Justifica o texto para um visual mais organizado */
+        font-size: 17px;
+        font-family: 'Times New Roman';
+        text-shadow: 3px 3px 10px #666769;
+    }
+
+.breaking {
+    width: 60%;
+	display: block;
+	margin: auto;
+	width: 350px;
+	height: 250px;
+    border-radius: 50px;
+} 
+
+.game {
+    width: 50%;
+	display: block;
+	margin: auto;
+	width: 350px;
+	height: 250px;
+    border-radius: 50px;
+}
+
+.vampire {
+    width: 50%;
+	display: block;
+	margin: auto;
+	width: 350px;
+	height: 250px;
+    border-radius: 50px;
+}
+
+.supernatural {
+    width: 50%;
+	display: block;
+	margin: auto;
+	width: 350px;
+	height: 250px;
+    border-radius: 50px;
+}
+
+.ass {
+    text-align: end;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 17px;
+    
+}
